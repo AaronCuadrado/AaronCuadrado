@@ -15,3 +15,7 @@ Full-Stack Development Student
 
 ## 💬 Contacto:
 [![Email](https://img.shields.io/badge/-aaroncuadradotoral@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaroncuadradotoral@gmail.com)
+
+<img src="https://raw.githubusercontent.com/AaronCuadrado/AaronCuadrado/output/snake.svg" alt="Snake animation" />
+
+###
